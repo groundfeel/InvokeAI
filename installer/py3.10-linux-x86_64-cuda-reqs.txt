@@ -311,7 +311,7 @@ filelock==3.8.0 \
 filterpy==1.4.5 \
     --hash=sha256:4f2a4d39e4ea601b9ab42b2db08b5918a9538c168cff1c6895ae26646f3d73b1
     # via facexlib
-flask==2.2.2 \
+flask==2.2.5 \
     --hash=sha256:642c450d19c4ad482f96729bd2a8f6d32554aa1e231f4f6b4e7e5264b16cca2b \
     --hash=sha256:b9c46cc36662a7949f34b52d8ec7bb59c0d74ba08ba6cb9ce9adc1d8676d9526
     # via
