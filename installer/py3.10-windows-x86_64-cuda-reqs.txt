@@ -558,7 +558,7 @@ grpcio==1.50.0 \
     # via
     #   tb-nightly
     #   tensorboard
-huggingface-hub==0.10.1 \
+huggingface-hub==0.13.4 \
     --hash=sha256:5c188d5b16bec4b78449f8681f9975ff9d321c16046cc29bcf0d7e464ff29276 \
     --hash=sha256:dc3b0e9a663fe6cad6a8522055c02a9d8673dbd527223288e2442bc028c253db
     # via
@@ -1539,7 +1539,7 @@ regex==2022.10.31 \
     #   clip
     #   diffusers
     #   transformers
-requests==2.25.1 \
+requests==2.31.0 \
     --hash=sha256:27973dd4a904a4f13b263a19c866c13b92a39ed1c964655f025f3f8d3d75b804 \
     --hash=sha256:c210084e36a42ae6b9219e00e48287def368a26d03a048ddad7bfee44f75871e
     # via
