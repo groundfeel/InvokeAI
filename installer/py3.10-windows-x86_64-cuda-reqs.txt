@@ -1288,7 +1288,7 @@ pydeprecate==0.3.2 \
     --hash=sha256:d481116cc5d7f6c473e7c4be820efdd9b90a16b594b350276e9e66a6cb5bdd29 \
     --hash=sha256:ed86b68ed837e6465245904a3de2f59bf9eef78ac7a2502ee280533d04802457
     # via pytorch-lightning
-pygments==2.13.0 \
+pygments==2.15.0 \
     --hash=sha256:56a8508ae95f98e2b9bdf93a6be5ae3f7d8af858b43e02c5a2ff083726be40c1 \
     --hash=sha256:f643f331ab57ba3c9d89212ee4a2dabc6e94f117cf4eefde99a0574720d14c42
     # via rich
