@@ -156,7 +156,7 @@ cachetools==5.2.0 \
     # via
     #   google-auth
     #   streamlit
-certifi==2022.9.24 \
+certifi==2022.12.7 \
     --hash=sha256:0d9c601124e5a6ba9712dbc60d9c53c21e34f5f641fe83002317394311bdce14 \
     --hash=sha256:90c1a32f1d68f940488354e36370f6cca89f0f106db09518524c88d6ed83f382
     # via
@@ -404,7 +404,7 @@ ftfy==6.1.1 \
     --hash=sha256:0ffd33fce16b54cccaec78d6ec73d95ad370e5df5a25255c8966a6147bd667ca \
     --hash=sha256:bfc2019f84fcd851419152320a6375604a0f1459c281b5b199b2cd0d2e727f8f
     # via clip
-future==0.18.2 \
+future==0.18.3 \
     --hash=sha256:b1bead90b70cf6ec3f0710ae53a525360fa360d306a86583adc6bf83a4db537d
     # via
     #   basicsr
@@ -1092,7 +1092,7 @@ picklescan==0.0.5 \
     --hash=sha256:368cf1b9a075bc1b6460ad82b694f260532b836c82f99d13846cd36e1bbe7f9a \
     --hash=sha256:57153eca04d5df5009f2cdd595aef261b8a6f27e03046a1c84f672aa6869c592
     # via -r installer/requirements.in
-pillow==9.3.0 \
+pillow==9.4.0 \
     --hash=sha256:03150abd92771742d4a8cd6f2fa6246d847dcd2e332a18d0c15cc75bf6703040 \
     --hash=sha256:073adb2ae23431d3b9bcbcff3fe698b62ed47211d0716b067385538a1b0f28b8 \
     --hash=sha256:0b07fffc13f474264c336298d1b4ce01d9c5a011415b79d4ee5527bb69ae6f65 \
@@ -1535,7 +1535,7 @@ regex==2022.10.31 \
     #   clip
     #   diffusers
     #   transformers
-requests==2.25.1 \
+requests==2.31.0 \
     --hash=sha256:27973dd4a904a4f13b263a19c866c13b92a39ed1c964655f025f3f8d3d75b804 \
     --hash=sha256:c210084e36a42ae6b9219e00e48287def368a26d03a048ddad7bfee44f75871e
     # via
@@ -1988,7 +1988,7 @@ wcwidth==0.2.5 \
     --hash=sha256:beb4802a9cebb9144e99086eff703a642a13d6a0052920003a230f3294bbe784 \
     --hash=sha256:c4d647b99872929fdb7bdcaa4fbe7f01413ed3d98077df798530e5b04f116c83
     # via ftfy
-werkzeug==2.2.2 \
+werkzeug==2.2.3 \
     --hash=sha256:7ea2d48322cc7c0f8b3a215ed73eabd7b5d75d0b50e31ab006286ccff9e00b8f \
     --hash=sha256:f979ab81f58d7318e064e99c4506445d60135ac5cd2e177a2de0089bfd4c9bd5
     # via
