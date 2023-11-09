@@ -1251,7 +1251,7 @@ psutil==5.9.4 \
     #   accelerate
     #   flaskwebgui
     #   wandb
-pyarrow==10.0.1 \
+pyarrow==14.0.1 \
     --hash=sha256:0ec7587d759153f452d5263dbc8b1af318c4609b607be2bd5127dcda6708cdb1 \
     --hash=sha256:1765a18205eb1e02ccdedb66049b0ec148c2a0cb52ed1fb3aac322dfc086a6ee \
     --hash=sha256:1a14f57a5f472ce8234f2964cd5184cccaa8df7e04568c64edc33b23eb285dd5 \
